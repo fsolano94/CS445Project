@@ -1,0 +1,4 @@
+SHA Hashing
+Average time per brute-value test: 11.7453225774s
+Number of brute-values tested: 8.67042934393e+17
+Approximate time to completion (worst case) 1.01836989529e+19s

@@ -1,0 +1,10 @@
+how long does it take for john the ripper to crack a password?
+
+how does john the ripper work?
+
+is john the ripper the fastest password cracking tool available?
+
+can you time how long it takes john the ripper to crack a password?
+
+the different types of encrypted passwords for this project include : MD5 and SHA256
+

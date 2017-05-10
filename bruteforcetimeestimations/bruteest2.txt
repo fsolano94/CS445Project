@@ -1,0 +1,4 @@
+MD5 Hashing
+Average time per brute-value test: 0.0229999980619s
+Number of brute-values tested: 8.67042934393e+17
+Approximate time to completion (worst case) 1.99419858106e+16s

@@ -1,0 +1,4 @@
+Raw value scan
+Average time per brute-value test: 1e-05s
+Number of brute-values tested: 8.67042934393e+17
+Approximate time to completion (worst case) 8.67042934393e+12s
